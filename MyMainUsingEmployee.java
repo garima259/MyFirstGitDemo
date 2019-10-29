@@ -12,9 +12,9 @@ public class MyMainUsingEmployee {
 		employeeList.add(new Employee(104, "surya", "sales", "Manager", 84533));
 		employeeList.add(new Employee(105, "abhi", "sales", "Salesman", 56763));
 		employeeList.add(new Employee(106, "vijay", "HR", "Manager", 98533));
-		employeeList.add(new Employee(106, "vishwas", "HR", "Manager", 33233));
+		employeeList.add(new Employee(106, "vish", "HR", "Manager", 33233));
 		employeeList.add(new Employee(107, "keshav", "HR", "Senior", 22333));
-		employeeList.add(new Employee(107, "suraj", "HR", "Senior", 76333));
+		employeeList.add(new Employee(107, "sura", "HR", "Senior", 76333));
 		
 		employeeList.stream()
 		.filter(employee->employee.getDept().equals("HR"))
