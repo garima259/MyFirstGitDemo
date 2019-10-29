@@ -6,9 +6,9 @@ import java.util.List;
 public class MyMainUsingEmployee {
 	public static void main(String[] args) {
 		List<Employee> employeeList = new ArrayList<>();
-		employeeList.add(new Employee(101, "sid", "IT", "Developer", 48843));
-		employeeList.add(new Employee(102, "vineet", "IT", "Developer", 54443));
-		employeeList.add(new Employee(103, "shourya", "IT", "Developer", 59823));
+		employeeList.add(new Employee(101, "siddhant", "IT", "Developer", 48843));
+		employeeList.add(new Employee(102, "vinee", "IT", "Developer", 54443));
+		employeeList.add(new Employee(103, "shoury", "IT", "Developer", 59823));
 		employeeList.add(new Employee(104, "surya", "sales", "Manager", 84533));
 		employeeList.add(new Employee(105, "abhi", "sales", "Salesman", 56763));
 		employeeList.add(new Employee(106, "vijay", "HR", "Manager", 98533));
