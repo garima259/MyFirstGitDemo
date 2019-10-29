@@ -7,7 +7,7 @@ public class MyMainUsingEmployee {
 	public static void main(String[] args) {
 		List<Employee> employeeList = new ArrayList<>();
 		employeeList.add(new Employee(101, "siddhant", "IT", "Developer", 48843));
-		employeeList.add(new Employee(102, "vinee", "Sales", "Developer", 54443));
+		employeeList.add(new Employee(102, "vinee", "HR", "Developer", 54443));
 		employeeList.add(new Employee(103, "shoury", "IT", "Developer", 59823));
 		employeeList.add(new Employee(104, "surya", "sales", "Manager", 84533));
 		employeeList.add(new Employee(105, "abhi", "sales", "Salesman", 56763));
