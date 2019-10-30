@@ -8,7 +8,10 @@ public class StreamExample {
 
 	public static void main(String[] args) {
 		List<String> stringList = new ArrayList<>();
-		stringList.add("siddhantsahni");
+		//This added in Child 2 stringList.add("GarimaTyagi");
+		//This added in Child 2 stringList.add("GarimaTyagi");
+		//This added in Child 2 stringList.add("GarimaTyagi");
+		//This added in Child 2 stringList.add("GarimaTyagi");
 		stringList.add("bhagjaoyahase");
 		stringList.add("ice fcream");
 		stringList.add("siefrwefwewed");
