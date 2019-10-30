@@ -8,7 +8,7 @@ public class StreamExample {
 
 	public static void main(String[] args) {
 		List<String> stringList = new ArrayList<>();
-		stringList.add("siddhantsahni");
+		stringList.add("GarimaTyagi");
 		stringList.add("bhagjaoyahase");
 		stringList.add("ice fcream");
 		stringList.add("siefrwefwewed");
