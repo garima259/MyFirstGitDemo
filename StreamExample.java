@@ -13,7 +13,7 @@ public class StreamExample {
 		//This added in Child 1 stringList.add("GarimaTyagi");
 		//This added in Child 1 stringList.add("GarimaTyagi");
 		stringList.add("bhagjaoyahase");
-		stringList.add("ice fcream");
+		stringList.add("burger");
 		stringList.add("siefrwefwewed");
 		stringList.add("siefrwefwewed");
 		stringList.add("changed");
