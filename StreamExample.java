@@ -14,6 +14,7 @@ public class StreamExample {
 		stringList.add("siefrwefwewed");
 		stringList.add("siefrwefwewed");
 		stringList.add("changed");
+		stringList.add("changedChild2");
 		
 		List<String> finalList = stringList.stream()
 		.filter(str->str.length()>10)
