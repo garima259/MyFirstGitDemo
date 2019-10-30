@@ -13,7 +13,7 @@ public class StreamExample {
 		stringList.add("ice fcream");
 		stringList.add("siefrwefwewed");
 		stringList.add("siefrwefwewed");
-		
+		stringList.add("changed");
 		
 		List<String> finalList = stringList.stream()
 		.filter(str->str.length()>10)
