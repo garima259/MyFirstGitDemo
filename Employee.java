@@ -4,7 +4,7 @@ public class Employee {
 	private int id1;
 	private String name1;
 	private String dept;
-	private String desig;
+	private String desig1;
 	private double salary;
 	public int getId() {
 		return id;
