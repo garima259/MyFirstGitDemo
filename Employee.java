@@ -1,8 +1,8 @@
 package com.sid.demo;
 
 public class Employee {
-	private int id;
-	private String name;
+	private int id1;
+	private String name1;
 	private String dept;
 	private String desig;
 	private double salary;
